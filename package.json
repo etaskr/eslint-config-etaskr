@@ -1,9 +1,8 @@
 {
   "name": "eslint-config-etaskr",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Josh Stuart <josh@etaskr.com>",
-  "private": true,
-  "description": "An eslint config for etaskr",
+  "description": "An eslint config made for etaskr",
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint ."
