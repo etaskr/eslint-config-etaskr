@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-etaskr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Josh Stuart <josh@etaskr.com>",
   "description": "An eslint config made for etaskr",
   "main": "index.js",
